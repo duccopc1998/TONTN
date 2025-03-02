@@ -1,0 +1,13 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 12,
+  "editor.fontWeight": "600",
+  "window.density.editorTabHeight": "compact",
+  "better-comments.highlightPlainText": true,
+  "hexeditor.maxFileSize": 50,
+  "npm.enableRunFromFolder": true,
+  "npm-intellisense.packageSubfoldersIntellisense": true,
+  "path-intellisense.showHiddenFiles": true,
+  "editor.minimap.sectionHeaderFontSize": 7,
+  "editor.inlineSuggest.syntaxHighlightingEnabled": true
+}
